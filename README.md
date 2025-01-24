@@ -27,7 +27,7 @@ To explore the experiments, models, and metrics tracked using MLflow in these pr
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Vaibhav-Kumar-Yadav/MLflow.git
-   cd mlflow
+   cd MLflow
    ```
 
 2. **Create and Activate a Virtual Environment**:
@@ -81,7 +81,7 @@ To explore the experiments, models, and metrics tracked using MLflow in these pr
 
 1. **Navigate to the Notebook Directory**:
    ```bash
-   cd tutorials
+   cd src
    ```
 
 2. **Launch Jupyter Notebook**:
@@ -112,9 +112,3 @@ Feel free to fork this repository and submit pull requests. Contributions are al
 Thank you for exploring MLflow with us! If you encounter any issues or have questions, feel free to reach out.
 ```
 
-### Key Points:
-
-- **Overview**: Introduces the contents and purpose of the repository.
-- **Getting Started**: Instructions for cloning, setting up, and running the projects.
-- **Explore with MLflow UI**: Clear instructions to set up and access the MLflow UI.
-- **Contributions and Contact Information**: Invites collaboration and provides contact details for further inquiries.
