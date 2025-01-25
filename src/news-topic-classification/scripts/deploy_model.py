@@ -4,7 +4,7 @@ import pandas as pd
 mlflow.set_tracking_uri("sqlite:///mlruns.db")
 
 model_name = "AGNewsClassificationModel"
-model_version = 1
+model_version = 2
 
 print(f"Loading model version {model_version} of '{model_name}' for deployment...")
 model = mlflow.pyfunc.load_model(model_uri=f"models:/{model_name}/{model_version}")
