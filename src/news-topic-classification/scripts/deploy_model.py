@@ -14,9 +14,9 @@ sample_input = pd.DataFrame({
     "Description": ["In the latest tech news, scientists achieved a revolutionary breakthrough in AI technology."]
 })
 
-input_text = sample_input["Title"] + " " + sample_input["Description"]
+sample_input["text"] = sample_input["Title"] + " " + sample_input["Description"]
 
-predictions = model.predict(input_text)
+predictions = model.predict(sample_input[["text"]])
 
 class_labels = {
     1: "World",
@@ -25,4 +25,5 @@ class_labels = {
     4: "Sci/Tech"
 }
 
-print(f"Predicted category: {class_labels[predictions[0]]}")
+predicted_category = class_labels[predictions[0]]
+print(f"Predicted category: {predicted_category}")
