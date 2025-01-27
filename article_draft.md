@@ -4,9 +4,9 @@ In today's data-driven world, managing machine learning workflows efficiently is
 
 ## Dive into NLP with MLflow
 
-One of the standout features of MLflow is its capability to handle intricate NLP projects with ease. Our repository includes two NLP projects that showcase MLflow's power:
+One of the standout features of MLflow is its capability to handle intricate NLP projects with ease. My repository includes two NLP projects that showcase MLflow's power:
 
-- **Sentiment Analysis**: We explore how to predict sentiment using IMDb reviews, leveraging MLflow's experiment tracking to manage our model training and evaluation. You'll witness firsthand how MLflow simplifies the logging of parameters, metrics, and models, making it easy to replicate and improve upon existing experiments.
+- **Sentiment Analysis**: This project walks you through prediction of sentiment using IMDb reviews, leveraging MLflow's experiment tracking to manage our model training and evaluation. You'll witness firsthand how MLflow simplifies the logging of parameters, metrics, and models, making it easy to replicate and improve upon existing experiments.
 
 - **News Topic Classification**: This project walks you through classifying news articles into various topics using the AG News dataset. With MLflow, managing and deploying these models is as straightforward as it gets, allowing you to focus on model improvement without being bogged down by operational challenges.
 
@@ -28,5 +28,5 @@ MLflow offers a unified platform that supports collaboration among data scientis
 
 ## Explore the Repository
 
-If you're eager to see these projects in action and access the full tutorial, head over to our [GitHub repository](https://github.com/Vaibhav-Kumar-Yadav/MLflow) for detailed instructions and code. Dive deep into the world of MLflow, and unlock new possibilities for your machine learning and NLP endeavors.
+If you're eager to see these projects in action and access the full tutorial, head over to my [GitHub repository](https://github.com/Vaibhav-Kumar-Yadav/MLflow) for detailed instructions and code. Dive deep into the world of MLflow, and unlock new possibilities for your machine learning and NLP endeavors.
 
